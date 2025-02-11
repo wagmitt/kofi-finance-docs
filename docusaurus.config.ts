@@ -39,7 +39,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/wagmitt/kofi-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/wagmitt/kofi-finance-docs/tree/main/packages/create-docusaurus/templates/shared/',
           routeBasePath: '/',
         },
         blog: false, // Disable the blog plugin
@@ -52,7 +52,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/og-image.png',
     // Add Algolia DocSearch Configuration
     algolia: {
       // The application ID provided by Algolia
@@ -133,7 +133,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/wagmitt/kofi-finance-docs',
             },
           ],
         },

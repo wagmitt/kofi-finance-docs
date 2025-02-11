@@ -3,40 +3,40 @@ sidebar_position: 1
 slug: /
 ---
 
-# Kofi Finance Documentation
+# ☕ Introduction to Kofi
 
-Learn how to use Kofi Finance and maximize your APT staking yield.
+![Kofi Finance Banner](intoduction-banner.webp)
 
-## Getting Started
+# Kofi – Aptos first liquid staking token offering boosted yields
 
-Get started by **creating a new site**.
+Kofi is a next-generation liquid staking platform on Aptos, allowing Aptos users to earn boosted staking rewards through Kofi's **dual liquid staking token model** — kAPT & stkAPT.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Kofi offers **boosted liquid staking**, whereby Kofi's yield bearing staked asset provides staking yields as the base layer yield with additional boosted rewards accrued on top of it.  
 
-### What you'll need
+## Breaking down Kofi's dual liquid staking token model
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### kAPT
 
-## Generate a new site
+Kofi's 1:1 pegged liquid staked token ("LST"), designed to remain pegged with APT and always redeemable for the underlying staked APT.  
 
-Generate a new Docusaurus site using the **classic template**.
+- Can be held in your wallet or further utilised across Aptos DeFi
 
-The classic template will automatically be added to your project after you run the command:
+### stkAPT
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+"Staked kAPT" provides base staking reward yields plus additional boosted yields on top of the base APT staking rewards. stkAPT boosted yields are accurued via innovative methods of capturing yields on Aptos.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Can be held in your wallet or further utilised across Aptos DeFi
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Core Features
 
-## Start your site
+- **Liquid Staking**: Stake APT and receive kAPT tokens
+- **Boosted Yields**: Earn additional rewards through stkAPT
+- **Composability**: Use kAPT tokens across the DeFi ecosystem
+- **Security**: Audited smart contracts and robust security measures
 
-Run the development server:
+## Official Links
 
-```bash
-cd my-website
-npm run start
-```
+- Website: [https://kofi.finance](https://kofi.finance)
+- Twitter: [https://x.com/kofi_finance](https://x.com/kofi_finance)
+- Discord: [https://discord.gg/kofi](https://discord.gg/kofi_finance)
+- App: [https://app.kofi.finance](https://app.kofi.finance)

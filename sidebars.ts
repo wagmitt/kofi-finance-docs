@@ -57,10 +57,24 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '💻 DEVELOPERS',
+      label: '🔒 SECURITY',
+      link: {
+        type: 'doc',
+        id: 'security/security',
+      },
       items: [
-        'security/contracts',
         'security/security-audits',
+      ],
+    },
+    {
+      type: 'category',
+      label: '💻 DEVELOPERS',
+      link: {
+        type: 'doc',
+        id: 'developers/overview',
+      },
+      items: [
+        'developers/contracts',
       ],
     },
     {

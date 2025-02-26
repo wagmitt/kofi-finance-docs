@@ -4,11 +4,15 @@ sidebar_position: 4
 
 # Kofi Points
 
+:::warning Draft Disclaimer
+This document is a draft and may be subject to changes.
+:::
+
 Earn additional Kofi Points on top of boosted staking yields!
 
 ## What are Kofi Points?
 
-Kofi Points can be earned through various activities within Kofi and across the Aptos Defi ecosystem. These points will translate to future perks during Kofi TGE. 
+Kofi Points can be earned through various activities within Kofi and across the Aptos Defi ecosystem. These points will translate to future perks during Kofi TGE.
 
 The Kofi points program is designed to reward early believers and contributors to the Kofi liquid staking protocol. By minting kAPT and utilising kAPT or stkAPT within the Aptos DeFi ecosystem, you will start accumulating Kofi points and climb the Kofi leaderboard.
 
@@ -35,6 +39,7 @@ The Kofi points program is designed to reward early believers and contributors t
 ## Point Calculation
 
 Points are calculated based on:
+
 - Amount of tokens held or used in DeFi activities
 - Duration of participation
 - Type of activity (minting, holding, providing liquidity)
@@ -44,4 +49,4 @@ Points are calculated based on:
 
 - Track your position on the Kofi Points leaderboard
 - Unlock new tiers as you accumulate points
-- Compete for special rewards and privileges 
+- Compete for special rewards and privileges

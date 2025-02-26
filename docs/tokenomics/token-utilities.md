@@ -1,8 +1,13 @@
 ---
 sidebar_position: 1
+title: $KOFI
 ---
 
 # Token Utilities
+
+:::warning Draft Disclaimer
+This document is a draft and may be subject to changes.
+:::
 
 ## Kofi Token Overview
 
@@ -44,4 +49,4 @@ The Kofi token distribution is designed to ensure long-term sustainability and a
 
 - **Phase 1**: Initial distribution and utility implementation
 - **Phase 2**: Governance activation and protocol fee sharing
-- **Phase 3**: Advanced utility features and cross-chain expansion 
+- **Phase 3**: Advanced utility features and cross-chain expansion

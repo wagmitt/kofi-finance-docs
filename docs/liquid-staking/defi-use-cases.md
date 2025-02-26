@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: DeFi use cases
 ---
 
 # DeFi Use Cases
@@ -15,11 +16,13 @@ Trade kAPT & stkAPT or provide liquidity on leading Aptos DEXs:
 - **Liquidswap**
 
 ### Trading
+
 - Execute trades with minimal slippage
 - Access deep liquidity pools
 - Take advantage of market opportunities
 
 ### Liquidity Provision
+
 - Provide liquidity in kAPT/APT pairs
 - Earn trading fees and liquidity mining rewards
 - Access to various AMM pools
@@ -36,11 +39,13 @@ Supply and use kAPT & stkAPT as collateral to borrow and perform leverage or loo
 - **Aptin**
 
 ### Lending
+
 - Use kAPT as collateral to borrow other assets
 - Lend your kAPT to earn additional yield
 - Maintain exposure to staking rewards while borrowing
 
 ### Yield Farming
+
 - Stake your kAPT in yield farming programs
 - Stack yields from multiple sources:
   - Base staking rewards
@@ -52,4 +57,4 @@ Supply and use kAPT & stkAPT as collateral to borrow and perform leverage or loo
 
 - Use kAPT as collateral in DeFi protocols
 - Access leveraged positions
-- Participate in synthetic asset protocols 
+- Participate in synthetic asset protocols

@@ -51,8 +51,12 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🪙 TOKENOMICS',
+      link: {
+        type: 'doc',
+        id: 'tokenomics/tokenomics',
+      },
       items: [
-        'tokenomics/token-utilities',
+        // 'tokenomics/kofi-token',
       ],
     },
     {

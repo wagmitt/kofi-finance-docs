@@ -1,14 +1,15 @@
 ---
 sidebar_position: 7
+
 ---
 
 # Legal Disclaimer
 
+:::warning
 Please read this disclaimer carefully before using Kofi and/or any of its sub-domains (hereinafter referred to as the "Protocol").
+:::
 
 By using the Protocol, you confirm that you accept this legal disclaimer and agree to comply with it. If you do not agree, you must not use the Website.
-
-## Legal Disclaimer
 
 The Kofi Protocol is an Aptos-based token staking protocol ("Protocol") that is designed to enable users to stake certain digital assets. Your use of the Protocol is entirely at your own risk.
 
@@ -24,6 +25,7 @@ You assume all risks associated with using the Protocol, and digital assets and 
 - You may lose some or all of your tokens or other assets
 
 You agree that you will have no recourse against anyone else for any losses due to the use of the Protocol. For example, these losses may arise from or relate to:
+
 - Incorrect information
 - Software or network failures
 - Corrupted cryptocurrency wallet files
@@ -48,12 +50,14 @@ The information provided in this documentation and on the Kofi Finance platform 
 ## Risk Disclosure
 
 ### Protocol Risks
+
 - Smart contract risks despite thorough audits
 - Validator slashing risks
 - Market volatility and pricing risks
 - Technical upgrade and maintenance risks
 
 ### User Responsibilities
+
 - Users are responsible for their own due diligence
 - Secure storage of private keys and wallet access
 - Understanding the risks involved in DeFi protocols
@@ -68,11 +72,13 @@ The information provided in this documentation and on the Kofi Finance platform 
 ## Regulatory Compliance
 
 ### Geographic Restrictions
+
 - Users must comply with their local regulations
 - Service may be restricted in certain jurisdictions
 - Users are responsible for determining their eligibility
 
 ### KYC/AML
+
 - Protocol may implement KYC/AML procedures
 - Users must provide accurate information if required
 - Compliance with anti-money laundering regulations
@@ -92,7 +98,8 @@ The information provided in this documentation and on the Kofi Finance platform 
 ## Limitation of Liability
 
 Kofi Finance and its affiliates shall not be liable for:
+
 - Loss of profits or funds
 - Technical or operational issues
 - Third-party service disruptions
-- Network or validator issues 
+- Network or validator issues

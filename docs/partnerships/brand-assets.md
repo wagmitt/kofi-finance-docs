@@ -34,61 +34,76 @@ Our logo represents the Kofi Finance brand and should be used consistently acros
 
 ### Primary Logo
 
-![Kofi Logo White](../assets/kofi-logo-white.svg)
+<a href="/brand-assets/kofi-logo-white.svg" download>
+  <img src="/brand-assets/kofi-logo-white.svg" alt="Kofi Logo White" />
+</a>
 
 **White version** - For use on dark backgrounds  
-[Download SVG](../assets/kofi-logo-white.svg)
 
-![Kofi Logo Black](../assets/kofi-logo-black.svg)
+<a href="/brand-assets/kofi-logo-black.svg" download>
+  <img src="/brand-assets/kofi-logo-black.svg" alt="Kofi Logo Black" />
+</a>
 
 **Black version** - For use on light backgrounds  
-[Download SVG](../assets/kofi-logo-black.svg)
 
 ### Symbol
 
-![Kofi Symbol](../assets/kofi-symbol.svg)
+<a href="/brand-assets/kofi-symbol.svg" download>
+  <img src="/brand-assets/kofi-symbol.svg" alt="Kofi Symbol"  width="150"/>
+</a>
 
 **Symbol only** - For use in space-constrained contexts  
-[Download SVG](../assets/kofi-symbol.svg)
 
 ## Logo Variations
 
 ### Square Format
 
 <div className="row">
-  <div className="col col--6">
-    <img src="../assets/kofi-green-square.png" alt="Kofi Green Square" width="150"/>
-    <p><a href="../assets/kofi-green-square.png">Green Square</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-green-square.png" download>
+      <img src="/brand-assets/kofi-green-square.png" alt="Kofi Green Square" width="150"/>
+    </a>
+
   </div>
-  <div className="col col--6">
-    <img src="../assets/kofi-black-square.png" alt="Kofi Black Square" width="150"/>
-    <p><a href="../assets/kofi-black-square.png">Black Square</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-black-square.png" download>
+      <img src="/brand-assets/kofi-black-square.png" alt="Kofi Black Square" width="150"/>
+    </a>
+
   </div>
 </div>
 
 ### Rounded Format
 
 <div className="row">
-  <div className="col col--6">
-    <img src="../assets/kofi-green-rounded.png" alt="Kofi Green Rounded" width="150"/>
-    <p><a href="../assets/kofi-green-rounded.png">Green Rounded</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-green-rounded.png" download>
+      <img src="/brand-assets/kofi-green-rounded.png" alt="Kofi Green Rounded" width="150"/>
+    </a>
+
   </div>
-  <div className="col col--6">
-    <img src="../assets/kofi-black-rounded.png" alt="Kofi Black Rounded" width="150"/>
-    <p><a href="../assets/kofi-black-rounded.png">Black Rounded</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-black-rounded.png" download>
+      <img src="/brand-assets/kofi-black-rounded.png" alt="Kofi Black Rounded" width="150"/>
+    </a>
+
   </div>
 </div>
 
 ### Circle Format
 
 <div className="row">
-  <div className="col col--6">
-    <img src="../assets/kofi-green-circle.png" alt="Kofi Green Circle" width="150"/>
-    <p><a href="../assets/kofi-green-circle.png">Green Circle</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-green-circle.png" download>
+      <img src="/brand-assets/kofi-green-circle.png" alt="Kofi Green Circle" width="150"/>
+    </a>
+
   </div>
-  <div className="col col--6">
-    <img src="../assets/kofi-black-circle.png" alt="Kofi Black Circle" width="150"/>
-    <p><a href="../assets/kofi-black-circle.png">Black Circle</a></p>
+  <div className="col col--2">
+    <a href="/brand-assets/kofi-black-circle.png" download>
+      <img src="/brand-assets/kofi-black-circle.png" alt="Kofi Black Circle" width="150"/>
+    </a>
+
   </div>
 </div>
 
@@ -100,24 +115,29 @@ These organic shapes can be used as decorative elements in marketing materials a
 
 <div className="row">
   <div className="col col--2" style={{marginBottom: '20px'}}>
-    <img src="../assets/kofi-blob-1.png" alt="Kofi Blob 1" width="120"/>
-    <p><a href="../assets/kofi-blob-1.png">Blob 1</a></p>
+    <a href="/brand-assets/kofi-blob-1.png" download>
+      <img src="/brand-assets/kofi-blob-1.png" alt="Kofi Blob 1" width="120"/>
+    </a>
   </div>
   <div className="col col--2" style={{marginBottom: '20px'}}>
-    <img src="../assets/kofi-blob-2.png" alt="Kofi Blob 2" width="120"/>
-    <p><a href="../assets/kofi-blob-2.png">Blob 2</a></p>
+    <a href="/brand-assets/kofi-blob-2.png" download>
+      <img src="/brand-assets/kofi-blob-2.png" alt="Kofi Blob 2" width="120"/>
+    </a>
   </div>
   <div className="col col--2" style={{marginBottom: '20px'}}>
-    <img src="../assets/kofi-blob-3.png" alt="Kofi Blob 3" width="120"/>
-    <p><a href="../assets/kofi-blob-3.png">Blob 3</a></p>
+    <a href="/brand-assets/kofi-blob-3.png" download>
+      <img src="/brand-assets/kofi-blob-3.png" alt="Kofi Blob 3" width="120"/>
+    </a>
   </div>
   <div className="col col--2" style={{marginBottom: '20px'}}>
-    <img src="../assets/kofi-blob-4.png" alt="Kofi Blob 4" width="120"/>
-    <p><a href="../assets/kofi-blob-4.png">Blob 4</a></p>
+    <a href="/brand-assets/kofi-blob-4.png" download>
+      <img src="/brand-assets/kofi-blob-4.png" alt="Kofi Blob 4" width="120"/>
+    </a>
   </div>
   <div className="col col--2" style={{marginBottom: '20px'}}>
-    <img src="../assets/kofi-blob-5.png" alt="Kofi Blob 5" width="120"/>
-    <p><a href="../assets/kofi-blob-5.png">Blob 5</a></p>
+    <a href="/brand-assets/kofi-blob-5.png" download>
+      <img src="/brand-assets/kofi-blob-5.png" alt="Kofi Blob 5" width="120"/>
+    </a>
   </div>
 </div>
 
@@ -139,4 +159,4 @@ These organic shapes can be used as decorative elements in marketing materials a
 
 ## Contact
 
-For questions about brand usage or to request additional assets, please contact [wagmitt@kofi.finance]
+For questions about brand usage or to request additional assets, please contact [wagmitt@kofi.finance](mailto:wagmitt@kofi.finance)

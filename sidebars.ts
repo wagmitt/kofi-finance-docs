@@ -17,7 +17,23 @@ const sidebars: SidebarsConfig = {
     'intro',
     {
       type: 'category',
-      label: 'Liquid Staking',
+      label: '📚 LEARN',
+      link: {
+        type: 'doc',
+        id: 'learn/overview',
+      },
+      items: [
+        'learn/what-is-liquid-staking',
+        'learn/how-liquid-staking-works',
+        'learn/benefits-of-liquid-staking',
+        'learn/risks-of-liquid-staking',
+        'learn/liquid-staking-vs-traditional',
+        'learn/glossary',
+      ],
+    },
+    {
+      type: 'category',
+      label: '☕️ PROTOCOL',
       link: {
         type: 'doc',
         id: 'liquid-staking/liquid-staking',
@@ -34,10 +50,32 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Security',
+      label: '🪙 TOKENOMICS',
+      items: [
+        'tokenomics/token-utilities',
+      ],
+    },
+    {
+      type: 'category',
+      label: '💻 DEVELOPERS',
       items: [
         'security/contracts',
         'security/security-audits',
+      ],
+    },
+    {
+      type: 'category',
+      label: '🔑 VALIDATORS',
+      items: [
+        'validators/how-to-join',
+      ],
+    },
+    {
+      type: 'category',
+      label: '🤝 PARTNERSHIPS',
+      items: [
+        'partnerships/become-our-partner',
+        'partnerships/brand-assets',
       ],
     },
   ],

@@ -19,13 +19,9 @@ Kofi offers **boosted liquid staking**, whereby Kofi's yield bearing staked asse
 
 Kofi's 1:1 pegged liquid staked token ("LST"), designed to remain pegged with APT and always redeemable for the underlying staked APT.  
 
-- Can be held in your wallet or further utilised across Aptos DeFi
-
 ### stkAPT
 
 "Staked kAPT" provides base staking reward yields plus additional boosted yields on top of the base APT staking rewards. stkAPT boosted yields are accurued via innovative methods of capturing yields on Aptos.
-
-- Can be held in your wallet or further utilised across Aptos DeFi
 
 ## Core Features
 

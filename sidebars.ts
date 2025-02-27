@@ -70,13 +70,13 @@ const sidebars: SidebarsConfig = {
         'security/security-audits',
       ],
     },
-    {
-      type: 'category',
-      label: '🎮 EVENTS',
-      items: [
-        'events/testnet-event',
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: '🎮 EVENTS',
+    //   items: [
+    //     'events/testnet-event',
+    //   ],
+    // },
     {
       type: 'category',
       label: '💻 DEVELOPERS',

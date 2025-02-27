@@ -6,30 +6,14 @@ sidebar_position: 5
 
 Understand the fee structure for using Kofi Finance services.
 
-## Staking Fees
+## Deposit Fee
 
-### Deposit Fee
+The deposit fee has a variable rate equivalent to one epoch's worth of staking rewards. This fee is applied at the time of deposit and helps maintain protocol stability while preventing gaming of the system
 
-- **Rate**: Variable% (1 epoch worth of rewards)
-- Fee is equivalent to one epoch's worth of staking rewards
-- Helps maintain protocol stability and prevent gaming
-- Applied at the time of deposit
+## Performance Fee
 
-### Performance Fee
+The performance fee is set at a rate of 10% of staking rewards. It is deducted automatically from staking rewards and is used to support ongoing protocol development and maintenance activities.
 
-- **Rate**: 10% of staking rewards
-- Deducted automatically from staking rewards
-- Used to support protocol development and maintenance
+## Withdrawal Fee
 
-### Withdrawal Fee
-
-- **Rate**: 0%
-- No fees for withdrawing APT from the protocol
-- Standard network gas fees apply
-
-## Protocol Revenue
-
-Protocol revenue is generated from:
-
-- Deposit fees
-- Management fees from staking rewards
+There is no withdrawal fee (0% rate) for withdrawing APT from the protocol. However, standard network gas fees still apply to all withdrawal transactions.

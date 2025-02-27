@@ -72,6 +72,13 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: '🎮 EVENTS',
+      items: [
+        'events/testnet-event',
+      ],
+    },
+    {
+      type: 'category',
       label: '💻 DEVELOPERS',
       link: {
         type: 'doc',

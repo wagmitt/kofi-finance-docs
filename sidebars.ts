@@ -70,13 +70,13 @@ const sidebars: SidebarsConfig = {
         'security/security-audits',
       ],
     },
-    // {
-    //   type: 'category',
-    //   label: '🎮 EVENTS',
-    //   items: [
-    //     'events/testnet-event',
-    //   ],
-    // },
+    {
+      type: 'category',
+      label: '🎮 EVENTS',
+      items: [
+        'events/testnet-event',
+      ],
+    },
     {
       type: 'category',
       label: '💻 DEVELOPERS',
@@ -86,6 +86,26 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'developers/contracts',
+        {
+          type: 'category',
+          label: 'Smart Contracts',
+          items: [
+            'developers/smart-contracts/gateway',
+            'developers/smart-contracts/kapt-coin',
+            'developers/smart-contracts/stkapt-coin',
+            'developers/smart-contracts/minting-manager',
+            'developers/smart-contracts/staking-manager',
+            'developers/smart-contracts/delegation-manager',
+            'developers/smart-contracts/rewards-manager',
+            'developers/smart-contracts/withdrawal-manager',
+            'developers/smart-contracts/vault',
+            'developers/smart-contracts/gateway-admin',
+            'developers/smart-contracts/math',
+            'developers/smart-contracts/config',
+            'developers/smart-contracts/access-control',
+            'developers/smart-contracts/errors',
+          ],
+        },
       ],
     },
     {

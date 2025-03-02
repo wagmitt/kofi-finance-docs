@@ -124,7 +124,3 @@ Now that you understand the risks of liquid staking, you might want to explore:
 :::warning Important
 This document provides educational information about potential risks, not financial advice. Always do your own research and consider consulting with a financial advisor before making investment decisions.
 :::
-
-:::tip Security Resources
-A more comprehensive analysis of liquid staking risks and mitigation strategies is available, along with Kofi Finance's security audit reports. Visit the [Security](/security) section to review our audit reports from industry-leading security firms.
-:::

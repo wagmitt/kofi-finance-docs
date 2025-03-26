@@ -8,15 +8,15 @@ sidebar_position: 2
 
 Kofi Finance has undergone comprehensive security audits with industry-leading audit firms:
 
-- [x] [Trail of Bits](https://www.trailofbits.com/)
-- [x] [Zellic](https://zellic.io/)
+- [x] [Zenith](https://www.zenith.security/)
+- [ ] [Ottersec (ongoing)](https://osec.io/)
 
 ## Audit Reports
 
 Kofi is committed to code transparency and security. Our audit reports are available for review:
 
-- **Trail of Bits Audit** - [Download Report](#)
-- **Zellic Audit** - [Download Report](#)
+- **Zenith Audit** - [View Report](https://github.com/KofiFinance/audits/blob/main/Kofi%20Finance%20-%20Zenith%20Audit%20Report.pdf)
+- **Ottersec Audit** - [Coming Soon](#)
 
 ## Audit Scope
 

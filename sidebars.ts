@@ -42,7 +42,7 @@ const sidebars: SidebarsConfig = {
         'liquid-staking/overview',
         'liquid-staking/kapt-and-stkapt',
         'liquid-staking/defi-use-cases',
-        'liquid-staking/kofi-points',
+        // 'liquid-staking/kofi-points',
         'liquid-staking/fees',
         'liquid-staking/faq',
         'liquid-staking/legal-disclaimer',

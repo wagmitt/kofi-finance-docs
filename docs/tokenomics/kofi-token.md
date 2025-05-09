@@ -25,7 +25,6 @@ The Kofi token is designed to serve multiple functions within the Kofi Finance e
 
 - **Boosted Yields**: Stake Kofi tokens to receive enhanced yields on your stkAPT holdings
 - **Fee Discounts**: Receive reduced protocol fees based on your Kofi token holdings
-- **Reward Multipliers**: Earn additional Kofi Points based on your token stake
 
 ### Protocol Participation
 

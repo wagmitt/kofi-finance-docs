@@ -69,7 +69,6 @@ Kofi Finance offers several unique advantages in the Aptos ecosystem:
   - stkAPT (yield-bearing) for automatic accrual of staking rewards
 - **Boosted yields**: Earn additional yields on top of base Aptos staking rewards with stkAPT
 - **Deep DeFi integration**: Seamless integration with leading Aptos DeFi protocols
-- **Kofi Points**: Earn additional rewards through the Kofi Points program
 
 ## Real-World Use Cases
 

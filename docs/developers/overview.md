@@ -20,7 +20,7 @@ Kofi Finance offers several integration points for developers:
 
 ### API Integration
 
-- Accessing Kofi protocol data
+- Accessing Kofi proto
 - Retrieving staking statistics and APR/APY information
 - Monitoring validator performance
 
@@ -39,5 +39,5 @@ To start building with Kofi Finance:
 - [Integration Guides](https://docs.kofi.finance/guides) (coming soon)
 
 :::tip Developer Support
-If you're building on Kofi Finance and need assistance, reach out to our team on Discord or via email at developers@kofi.finance.
-::: 
+If you're building on Kofi Finance and need assistance, reach out to our team on Discord or via email at <developers@kofi.finance>.
+:::

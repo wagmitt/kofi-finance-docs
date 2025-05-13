@@ -74,7 +74,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🎮 EVENTS',
       items: [
-        'events/testnet-campaign',
+        // 'events/testnet-campaign',
       ],
     },
     {

@@ -39,5 +39,5 @@ To start building with Kofi Finance:
 - [Integration Guides](https://docs.kofi.finance/guides) (coming soon)
 
 :::tip Developer Support
-If you're building on Kofi Finance and need assistance, reach out to our team on Discord or via email at <developers@kofi.finance>.
+If you're building on Kofi Finance and need assistance, reach out to our team on Discord or via email at developers@kofi.finance.
 :::

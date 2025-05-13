@@ -7,7 +7,7 @@ title: DeFi use cases
 
 Use kAPT & stkAPT across Aptos DeFi to elevate your yields. kAPT & stkAPT will be highly composable across Aptos DeFi ecosystem and is in the process of being integrated across multiple platforms.
 
-https://
+[Explore DeFi Use Cases](https://app.kofi.finance/explore)
 
 ## DEXs - Trading & Liquidity
 

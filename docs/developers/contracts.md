@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Contracts
 
+## Modules
+
+| Contract | Contract Address |
+|----------|-------------|
+| Kofi | [0x2cc52445acc4c5e5817a0ac475976fbef966fedb6e30e7db792e10619c76181f](https://explorer.aptoslabs.com/fungible_asset/0x2cc52445acc4c5e5817a0ac475976fbef966fedb6e30e7db792e10619c76181f?network=mainnet) |
+| kAPT | [0x821c94e69bc7ca058c913b7b5e6b0a5c9fd1523d58723a966fb8c1f5ea888105](https://explorer.aptoslabs.com/fungible_asset/0x821c94e69bc7ca058c913b7b5e6b0a5c9fd1523d58723a966fb8c1f5ea888105?network=mainnet) |
+| stkAPT | [0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b](https://explorer.aptoslabs.com/fungible_asset/0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b?network=mainnet) |
+
 ## Core Protocol Contracts
 
 | Contract | Description |
